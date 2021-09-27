@@ -13,3 +13,11 @@
 ![afoto](i.png)
 ![afoto](j.png)
 ![afoto](k.png)
+### 3.Configuramos el internet LAN 
+![foto](m.png)
+![foto](n.png)
+![foto](o.png)
+### 4.Modificamos el archivo /etc/resolv.conf, /etc/hosts y /etc/hostname 
+![foto](p.png)
+![foto](q.png)
+![foto](r.png)
