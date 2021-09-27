@@ -1,4 +1,4 @@
-# **Ubuntu**
+# **Ubuntu_Server**
 ## Instalación 
 ### 1.Configuración M.V
 ![afoto](a.2.png)
