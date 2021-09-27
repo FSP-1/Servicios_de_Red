@@ -1,3 +1,4 @@
-# **Ubuntu***
-### Instalación 1. Máquina Virtual con Apache y PHP 
+# **Ubuntu**
+## Instalación 
+### 1.Configuración M.V
 ![Primer foto](a.png)
