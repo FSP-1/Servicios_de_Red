@@ -1,2 +1,2 @@
 **Comprobacíon**
-![afoto](c.png)
+![afoto](Practica1.1.png)
